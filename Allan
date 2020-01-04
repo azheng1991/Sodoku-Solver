@@ -1,3 +1,9 @@
+Project Description: 
+•	Created a Python-based agent to solve a diagonal Sudoku puzzle
+•	Coded naked twins algorithm to reduce possibilities
+•	Employed depth-first search, elimination and only choice to reduce puzzle 
+
+
 from utils import *
 import logging
 
